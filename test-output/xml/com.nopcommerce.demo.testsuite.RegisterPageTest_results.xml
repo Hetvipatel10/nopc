@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Login Test"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="8.227">
+  <properties />
+  
+  
+            <testcase name="verifyThatUserShouldCreateAccountSuccessfully" time="2.941" classname="com.nopcommerce.demo.testsuite.RegisterPageTest" />
+                <testcase name="verifyThatUserShouldCreateAccountSuccessfully" time="3.570" classname="com.nopcommerce.demo.testsuite.RegisterPageTest" />
+                <testcase name="verifyThatFirstNameLastNameEmailPasswordAndConfirmPasswordFieldsAreMandatory" time="0.720" classname="com.nopcommerce.demo.testsuite.RegisterPageTest" />
+                <testcase name="verifyUserShouldNavigateToRegisterPageSuccessfully" time="0.996" classname="com.nopcommerce.demo.testsuite.RegisterPageTest" />
+      
+</testsuite>

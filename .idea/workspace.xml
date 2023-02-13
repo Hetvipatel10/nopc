@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="591529bc-2923-40f1-9f87-b97258365883" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/customlistener/CustomListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/driverfactory/ManageDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/pages/BuildYourOwnComputerPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/pages/Computerpage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/pages/DesktopPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/pages/RegisterPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/demo/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/demo/runners/reportng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/demo/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/demo/testsuite/ComputerPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/demo/testsuite/LoginpageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/demo/testsuite/RegisterPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/propertiesfile/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/testdata/TestData.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LN578j6qjuz33NA6BVg0IklZOl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Homework/cucumberDemoCB2&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RunManager" selected="TestNG.C:/Homework/Nopcommerce13/src/test/java/com/nopcommerce/demo/runners/reportng.xml">
+    <configuration name="C:/Homework/Nopcommerce13/src/test/java/com/nopcommerce/demo/runners/reportng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="nopcommerce.demo" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/nopcommerce/demo/runners/reportng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComputerPageTest.verifyThatUserShouldBuildYouOwnComputerAndAddThemToCartSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="nopcommerce.demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nopcommerce.demo.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nopcommerce.demo.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.demo.testsuite.ComputerPageTest" />
+      <option name="METHOD_NAME" value="verifyThatUserShouldBuildYouOwnComputerAndAddThemToCartSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginpageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="nopcommerce.demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nopcommerce.demo.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nopcommerce.demo.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.demo.testsuite.LoginpageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginpageTest.VerifyThatUserShouldLogOutSuccessFully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="nopcommerce.demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nopcommerce.demo.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nopcommerce.demo.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.demo.testsuite.LoginpageTest" />
+      <option name="METHOD_NAME" value="VerifyThatUserShouldLogOutSuccessFully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterPageTest.verifyThatUserShouldCreateAccountSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="nopcommerce.demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nopcommerce.demo.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nopcommerce.demo.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.demo.testsuite.RegisterPageTest" />
+      <option name="METHOD_NAME" value="verifyThatUserShouldCreateAccountSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Homework/Nopcommerce13/src/test/java/com/nopcommerce/demo/runners/reportng.xml" />
+        <item itemvalue="TestNG.LoginpageTest" />
+        <item itemvalue="TestNG.ComputerPageTest.verifyThatUserShouldBuildYouOwnComputerAndAddThemToCartSuccessfully" />
+        <item itemvalue="TestNG.LoginpageTest.VerifyThatUserShouldLogOutSuccessFully" />
+        <item itemvalue="TestNG.RegisterPageTest.verifyThatUserShouldCreateAccountSuccessfully" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="591529bc-2923-40f1-9f87-b97258365883" name="Changes" comment="" />
+      <created>1675698530064</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675698530064</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/nopcommerce/demo/testsuite/RegisterPageTest.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,5 @@
+2023-02-10 22:02:988 INFO  Computerpage :39 - clicking on Desktops[[ChromeDriver: chrome on WINDOWS (c65a0cda228e1097cc2e665d53477f3f)] -> link text: Desktops]
+2023-02-12 08:02:704 INFO  LoginPage :50 - getting text from : [[ChromeDriver: chrome on WINDOWS (efac6b522b5d3687525f6a1dc53da17b)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-02-12 08:02:910 INFO  LoginPage :50 - getting text from : [[ChromeDriver: chrome on WINDOWS (b1303a2553539da24d955cec1691f28a)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-02-12 08:02:356 INFO  Computerpage :39 - clicking on Desktops[[ChromeDriver: chrome on WINDOWS (9c37de016984c98dc7c98c56da5619c0)] -> link text: Desktops]
+2023-02-12 08:02:162 INFO  Computerpage :39 - clicking on Desktops[[ChromeDriver: chrome on WINDOWS (ffe2ffea3030acdcd685474571e10600)] -> link text: Desktops]
